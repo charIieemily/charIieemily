@@ -2,9 +2,9 @@
 
 　　　　　　　　 　　　　　　　　 　　　　　
 <p align="center">
- 
-[rentry](https://rentry.co/charchar) [prns](https://pronouns.cc/@charlotteemily)
+  <a href="https://rentry.co/charchar">rentry</a>
 </p>
+
 　　　　　　　　 　　　　　　　　
 
 　　　　　　　　 　　　　　　　　 　　　　　
