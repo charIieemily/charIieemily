@@ -2,7 +2,7 @@
 
 　　　　　　　　 　　　　　　　　 　　　　　
 <p align="center">
-  <img src="https://64.media.tumblr.com/ace0fe897efbde357fbfbf8cedaa65bc/8dd33f09c584525d-45/s640x960/0bf7a714833e7822d039e5e52d7df42221ee8a6f.pnj" alt="Image" width="50" height="50">
+  <img src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/fa/FNaF2_-_Take_Cake_to_the_Children_%28Ni%C3%B1o_llorando%29.gif/revision/latest/scale-to-width/360?cb=20150117063601&path-prefix=es" alt="Image" width="50" height="50">
   <br>
   <a href="https://rentry.co/charchar">rentry</a> 　 <a href="https://pronouns.cc/@charlotteemily">prns</a>
 </p>
